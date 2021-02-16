@@ -178,14 +178,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3185152">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3186176">
       <assemblyIdentity name="ECNESOFT.T_OFFICE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>7d/YHFyb6+eT2oUAJW1l2QF12mo=</dsig:DigestValue>
+        <dsig:DigestValue>kf/4AfpgBLYyepexWoXW9khS//w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -221,7 +221,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>jfN8I16YIOsIDaWbe9s8g0vf5R0=</dsig:DigestValue>
+        <dsig:DigestValue>GEAsiOygtGr8Lt1GHxw/FaOH7VM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -461,7 +461,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>uv5wGhKN3Xq8xVcKX6XLEB9SAlQ=</dsig:DigestValue>
+        <dsig:DigestValue>jjL6DDFmBzu7NzMilJfWi0Go21g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
