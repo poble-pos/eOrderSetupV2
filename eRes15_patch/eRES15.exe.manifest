@@ -137,7 +137,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>hLKWH4CMiraFpDfK1KC7VXdIN4Q=</dsig:DigestValue>
+        <dsig:DigestValue>eNBBPYX4mfwxHeINz1MAOALbnYQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -178,14 +178,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3186176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3187200">
       <assemblyIdentity name="ECNESOFT.T_OFFICE" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>PpsI3futTHHeBbirFw5EaIx10M0=</dsig:DigestValue>
+        <dsig:DigestValue>nLFtfnSsi2t5X22KSBCulTQcb74=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -214,14 +214,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="eRES15.exe" size="253784">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="eRES15.exe" size="252248">
       <assemblyIdentity name="eRES15" version="1.5.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>zdbuyfSN4qUiedU+dhtL3dkGImI=</dsig:DigestValue>
+        <dsig:DigestValue>eOb+pM+X2W9qAxm9aAf3MmNVNyA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -251,13 +251,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Login.dll" size="316928">
-      <assemblyIdentity name="Login" version="1.0.7737.33486" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="Login" version="1.0.7738.32316" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>f11Wpu0WqFToohtpH7/KuJZnPaQ=</dsig:DigestValue>
+        <dsig:DigestValue>7V86igjhyPSzqk32tHiWL3ojok4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -437,7 +437,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>y1rSyQEEs1MDohCCkI3cRkhMfzM=</dsig:DigestValue>
+        <dsig:DigestValue>HNbgPl7zxNPD+/Gw/dswSPz5NLY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -454,14 +454,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T_SALES.dll" size="2814976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T_SALES.dll" size="2817536">
       <assemblyIdentity name="T_SALES" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>6/HJ+oUU9AymuXPVTj/c5+YlgSE=</dsig:DigestValue>
+        <dsig:DigestValue>GNA/VPzf638jzyO6ewRf/VvF26U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
