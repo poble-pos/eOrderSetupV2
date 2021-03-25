@@ -137,7 +137,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>r+JcYjZnj/kxj0n2ELzDrjNnDgI=</dsig:DigestValue>
+        <dsig:DigestValue>9dzfQFaPUcv1roTBQYypEnM1EmU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -178,14 +178,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3187200">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3188224">
       <assemblyIdentity name="ECNESOFT.T_OFFICE" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>nLFtfnSsi2t5X22KSBCulTQcb74=</dsig:DigestValue>
+        <dsig:DigestValue>GTDGqVY49LPR/pbNsmuD7ttO/L0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -221,7 +221,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>GW/qAB6BsblWNTJK5xiizsN/rz4=</dsig:DigestValue>
+        <dsig:DigestValue>+2LJ2HxHOvK2/3AkYuvcq4qrO+E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -251,13 +251,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Login.dll" size="316928">
-      <assemblyIdentity name="Login" version="1.0.7752.19756" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="Login" version="1.0.7752.25661" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>PAypMgY0YD3Kd9bpIc3ovias1Yw=</dsig:DigestValue>
+        <dsig:DigestValue>xdB4bC9dB2HCyM4jHjmeq3DQ1o8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -437,7 +437,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Sz4pOpQt+NU8bD/dCx1suR+XpbA=</dsig:DigestValue>
+        <dsig:DigestValue>/AIFPTlKz60TxaMT+9R8jiTfrDw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -461,7 +461,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>U712wy+un/3S8BqjrLW9ZixMNHQ=</dsig:DigestValue>
+        <dsig:DigestValue>2HTlpuFLKVF5HfnPnN/9BdgJBAI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
