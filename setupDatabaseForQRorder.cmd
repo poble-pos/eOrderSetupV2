@@ -17,5 +17,9 @@ sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE StoreSetting ALTER COLUMN StoreImage 
 sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE StoreSetting ALTER COLUMN ADImage VARBINARY(MAX)"
 sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE StoreSetting ALTER COLUMN DualImage VARBINARY(MAX)"
 sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE StoreSetting ALTER COLUMN Printer13COMIP VARCHAR (20)"
+
+
+sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE MenuModifier ALTER COLUMN ModifierImage VARBINARY(MAX)"
+
 echo.
 pause
