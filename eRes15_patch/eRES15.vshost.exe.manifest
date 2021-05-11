@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="eRES15.exe" version="1.5.3.57" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="eRES15.exe" version="1.5.3.57" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <description asmv2:iconFile="castle.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="eRES15" version="1.5.0.0" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="eRES15" version="1.5.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="eRES15.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -130,26 +130,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Common.dll" size="1522176">
-      <assemblyIdentity name="Common" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Common.dll" size="1521152">
+      <assemblyIdentity name="Common" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>9dzfQFaPUcv1roTBQYypEnM1EmU=</dsig:DigestValue>
+        <dsig:DigestValue>BA7oFchoUiYgLwvMGz9NnwAmb80=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ControlLibs.dll" size="9728">
-      <assemblyIdentity name="ControlLibs" version="1.0.7737.33484" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="ControlLibs" version="1.0.7691.21201" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>qwgYZIYnTR2+O5GueaFjovI5nP0=</dsig:DigestValue>
+        <dsig:DigestValue>7XiJH+9ZiIwDpU68gqsXs8PXyKY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -178,26 +178,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3188224">
-      <assemblyIdentity name="ECNESOFT.T_OFFICE" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.T_OFFICE.dll" size="3172352">
+      <assemblyIdentity name="ECNESOFT.T_OFFICE" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>GTDGqVY49LPR/pbNsmuD7ttO/L0=</dsig:DigestValue>
+        <dsig:DigestValue>DDeVk6iTO+im0f8DioZNV+OKeGc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ECNESOFT.WebServices.dll" size="28160">
-      <assemblyIdentity name="ECNESOFT.WebServices" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="ECNESOFT.WebServices" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>te6bI1UuR+w6rMMhwRYgXdHouC4=</dsig:DigestValue>
+        <dsig:DigestValue>/9zIG3kOwxHqvXivfCDgSGlRX6o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -209,19 +209,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FURZ9RGjTGk3sm8zlk3Y1oXUkGo=</dsig:DigestValue>
+        <dsig:DigestValue>jnYkxigoVnGsFjY3A4IlmbATBVs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="eRES15.exe" size="252248">
-      <assemblyIdentity name="eRES15" version="1.5.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="eRES15.exe" size="251736">
+      <assemblyIdentity name="eRES15" version="1.5.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>+2LJ2HxHOvK2/3AkYuvcq4qrO+E=</dsig:DigestValue>
+        <dsig:DigestValue>pgWw7ugU/2PvqEQcpvICe4huRNg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -251,13 +251,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Login.dll" size="316928">
-      <assemblyIdentity name="Login" version="1.0.7752.25661" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="Login" version="1.0.7692.21865" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>xdB4bC9dB2HCyM4jHjmeq3DQ1o8=</dsig:DigestValue>
+        <dsig:DigestValue>RdAHcCbl6sxKozD1oF3TMgmmkw4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -430,14 +430,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SolutionGlobals.dll" size="171008">
-      <assemblyIdentity name="SolutionGlobals" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SolutionGlobals.dll" size="170496">
+      <assemblyIdentity name="SolutionGlobals" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>/AIFPTlKz60TxaMT+9R8jiTfrDw=</dsig:DigestValue>
+        <dsig:DigestValue>vTEgLNtDKSzwRCIXuUVpsi6x1NY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -454,14 +454,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T_SALES.dll" size="2817536">
-      <assemblyIdentity name="T_SALES" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="T_SALES.dll" size="2801664">
+      <assemblyIdentity name="T_SALES" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>2HTlpuFLKVF5HfnPnN/9BdgJBAI=</dsig:DigestValue>
+        <dsig:DigestValue>P0+xO+AH+5ug+h0AD+zuRzjXdfw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
