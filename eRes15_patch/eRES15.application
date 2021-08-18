@@ -11,14 +11,14 @@
     <deploymentProvider codebase="http://ws.ecnesoft.com/eRESDEV/eRES15.application" />
   </deployment>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="eRES15.exe.manifest" size="32800">
+    <dependentAssembly dependencyType="install" codebase="eRES15.exe.manifest" size="32477">
       <assemblyIdentity name="eRES15.exe" version="1.5.3.57" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>oeG0ttJvEnrBSqZiOZK2la1C7+w=</dsig:DigestValue>
+        <dsig:DigestValue>srE6ewwbNGjXiWz6NunPq/eYOOY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
