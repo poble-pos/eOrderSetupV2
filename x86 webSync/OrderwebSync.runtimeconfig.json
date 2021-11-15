@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "netcoreapp3.1",
@@ -9,16 +8,4 @@
       }
     ]
   }
-=======
-{
-  "runtimeOptions": {
-    "tfm": "netcoreapp3.1",
-    "includedFrameworks": [
-      {
-        "name": "Microsoft.NETCore.App",
-        "version": "3.1.13"
-      }
-    ]
-  }
->>>>>>> ede8f0a91d66d00baade68b87566221a631fb00b
 }
