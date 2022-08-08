@@ -17,6 +17,7 @@
           "Microsoft.Data.SqlClient": "2.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.7",
+          "RestSharp": "108.0.1",
           "SqlTableDependency": "8.5.8",
           "System.Data.SqlClient": "4.8.2",
           "System.Drawing.Common": "4.7.0",
@@ -1577,6 +1578,17 @@
           }
         }
       },
+      "RestSharp/108.0.1": {
+        "dependencies": {
+          "System.Text.Json": "5.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/RestSharp.dll": {
+            "assemblyVersion": "108.0.1.0",
+            "fileVersion": "108.0.1.0"
+          }
+        }
+      },
       "runtime.any.System.Collections/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -2550,6 +2562,7 @@
           "runtime.any.System.Text.Encoding.Extensions": "4.3.0"
         }
       },
+      "System.Text.Json/5.0.0": {},
       "System.Text.RegularExpressions/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -3148,6 +3161,13 @@
       "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "RestSharp/108.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XKwuwWq7A4dxZ8l9QkS2+ePLJ9ImmLaJSeFO6H2kpII4Us4n1NRs4w3c//8H2BYpL1XqBE8nmsd9aNCVBwXmOA==",
+      "path": "restsharp/108.0.1",
+      "hashPath": "restsharp.108.0.1.nupkg.sha512"
     },
     "runtime.any.System.Collections/4.3.0": {
       "type": "package",
@@ -4002,6 +4022,13 @@
       "sha512": "sha512-YVMK0Bt/A43RmwizJoZ22ei2nmrhobgeiYwFzC4YAN+nue8RF6djXDMog0UCn+brerQoYVyaS+ghy9P/MUVcmw==",
       "path": "system.text.encoding.extensions/4.3.0",
       "hashPath": "system.text.encoding.extensions.4.3.0.nupkg.sha512"
+    },
+    "System.Text.Json/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+luxMQNZ2WqeffBU7Ml6njIvxc8169NW2oU+ygNudXQGZiarjE7DOtN7bILiQjTZjkmwwRZGTtLzmdrSI/Ustw==",
+      "path": "system.text.json/5.0.0",
+      "hashPath": "system.text.json.5.0.0.nupkg.sha512"
     },
     "System.Text.RegularExpressions/4.3.0": {
       "type": "package",
