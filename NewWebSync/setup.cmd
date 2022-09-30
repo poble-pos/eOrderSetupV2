@@ -22,6 +22,8 @@ sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE StoreSetting ALTER COLUMN DualImage V
 sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE StoreSetting ALTER COLUMN POSDisplayMessage nvarchar(MAX)"
 sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE StoreSetting ALTER COLUMN Printer13COMIP VARCHAR (20)"
 
+sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE OrderMaster ALTER COLUMN CustomerName nvarchar(500)"
+sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE OrderMaster ALTER COLUMN TableTag nvarchar(500)"
 
 sqlcmd -S .\REST -d eRES15 -Q "ALTER TABLE MenuModifier ALTER COLUMN ModifierImage VARBINARY(MAX)"
 sqlcmd -S .\REST -d eRES15 -Q "IF NOT EXISTS(SELECT * FROM sys.symmetric_keys) BEGIN CREATE MASTER KEY ENCRYPTION BY PASSWORD = 'encetfos' END"
