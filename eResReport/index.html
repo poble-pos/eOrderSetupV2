@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Report</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+    <header class="topbar">
+        <div>
+            <h1>Sales Report</h1>
+            <span class="subtitle">POS Sales & Performance</span>
+        </div>
+
+        <div class="date-filter">
+            <label>
+                Start Date
+                <input type="date" id="startDate">
+            </label>
+
+            <label>
+                End Date
+                <input type="date" id="endDate">
+            </label>
+
+            <button id="searchButton" class="primary-button">
+                Search
+            </button>
+        </div>
+    </header>
+
+    <nav class="tabs" id="reportTabs">
+        <button class="tab active" data-report="summary">
+            Summary
+        </button>
+
+        <button class="tab" data-report="item-sales">
+            Item Sales
+        </button>
+
+        <button class="tab" data-report="orders">
+            Orders
+        </button>
+
+        <button class="tab" data-report="customers">
+            Customers
+        </button>
+
+        <button class="tab" data-report="meal-period">
+            Meal Period
+        </button>
+
+        <button class="tab" data-report="daily-sales">
+            Daily Sales
+        </button>
+
+        <button class="tab" data-report="cashier-registers">
+            Cashier Registers
+        </button>
+
+        <!-- <button class="tab" data-report="hungry-bear">
+            Hungry Bear
+        </button> -->
+    </nav>
+
+    <main>
+
+        <div class="toolbar">
+            <div id="reportTitle">Sales Summary</div>
+
+            <button id="downloadCsvButton" class="secondary-button">
+                ↓ Download CSV
+            </button>
+        </div>
+
+        <div id="loading" class="loading hidden">
+            Loading...
+        </div>
+
+        <div id="error" class="error hidden"></div>
+
+        <section id="reportContent"></section>
+
+    </main>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
